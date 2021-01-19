@@ -1,9 +1,5 @@
-### Hi there 👋
 
-<!--
-**dakkua/dakkua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi! I´m Dany, 22 tech-boy and current Game Dev student at ESNE university in Madrid / Spain. 
+Hi! 👋 I´m Dany, 22 tech-boy and current Game Dev student at ESNE university in Madrid / Spain. 
 
 - 🎓 I’m currently learning Game Design and Development
 - 💻 I love XR Stuff! (VR, AR, MR) 
