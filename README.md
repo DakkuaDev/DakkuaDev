@@ -1,5 +1,5 @@
 
-Hi! 👋 I´m Dany, 22 tech-boy and current Game Dev student at ESNE university in Madrid / Spain. 
+Hi! 👋 I´m Dany, 22 tech-boy and current Game Dev student at ESNE university at Madrid / Spain. 
 
 - 🎓 I’m currently learning Game Design and Development
 - 💻 I love XR Stuff! (VR, AR, MR) 
