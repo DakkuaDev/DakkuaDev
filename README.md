@@ -1,6 +1,6 @@
+👋 Hi there,
+I'm Daniel Guerra, 24 years old.
 
-Hola! Soy Daniel Guerra, Desarrollador de Videojuegos especializado en Realidad Virtual.
-
-Jugador desde que tengo memoria, desde niño sueño con crear mis propios universos, para poder compartir mi visión del mundo con los demás.
-
-Aquí puedes encontrar proyectos personales, colaboraciones y código de trabajos en los que he podido participar.
+👀 I’m a Game Developer. I work at the Technological Institute of Castilla-Leon (ITCL) as a Unity Developer (R&D).
+🌱 I’m currently learning and working on expanding my knowledge in Game Development in engines such as Unity, UE4/5 and Godot and Programming Languages such as C/C++, C#
+📫 You can reach me via LinkedIn.
