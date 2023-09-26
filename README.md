@@ -1,6 +1,12 @@
-👋 Hi there,
-I'm Daniel Guerra, 24 years old.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Guerra
+=====================================================================================================================================
 
-👀 I’m a Game Developer. I work at the Technological Institute of Castilla-Leon (ITCL) as a Unity Developer (R&D).
-🌱 I’m currently learning and working on expanding my knowledge in Game Development in engines such as Unity, UE4/5 and Godot and Programming Languages such as C/C++, C#
-📫 You can reach me via LinkedIn.
+Game Developer
+--------------
+
+Unity Developer (R&D) at Technological Institute of Castilla - León (ITCL)
+
+*   🌍  I'm based in Spain, Burgos
+*   ✉️  You can contact me at [daniel.guerra.gallardo99@gmail.com](mailto:daniel.guerra.gallardo99@gmail.com)
+*   🧠  I'm learning Game Programming Patters. Unreal Engine 5, Godot 4.
+*   🤝  I'm open to collaborating on Interactive Projects. XR. Video Games. Workshops and events.
