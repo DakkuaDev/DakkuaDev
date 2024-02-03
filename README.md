@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Developer 
 --------------
 
-Technical Researcher - Developer at the Technological Institute of Castilla y León (ITCL) in Virtual Reality and Simulation Research Group
+Researcher - Developer (R&D) at the Technological Institute of Castilla y León (ITCL) in Virtual Reality and Simulation Research Group
 
 
 *   🌍  I'm based in Spain, Burgos
