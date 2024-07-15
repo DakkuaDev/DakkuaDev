@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Guerra
 =====================================================================================================================================
 
-Game Developer 
+Game Developer - C# .NET - Unity
 --------------
 
 More than 3 years of experience as a Software Developer. I developed and coordinated Research and Innovation (R&D&I) teams and projects for systems based on Virtual Reality, Augmented Reality, Simulators, and Serious Games  in technology centers and private companies. As a teacher, I have experience in university training, and as a private tutor. I have also given several seminars, lectures, and workshops on Video Games and Immersive Technologies.
