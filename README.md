@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Developer 
 --------------
 
-Researcher - Developer (R&D) at the Technological Institute of Castilla y León (ITCL) in Virtual Reality and Simulation Research Group
+More than 3 years of experience as a Software Developer. I developed and coordinated Research and Innovation (R&D&I) teams and projects for systems based on Virtual Reality, Augmented Reality, Simulators, and Serious Games  in technology centers and private companies. As a teacher, I have experience in university training, and as a private tutor. I have also given several seminars, lectures, and workshops on Video Games and Immersive Technologies.
 
-
-*   🌍  I'm based in Spain, Burgos
+*   🌐  Personal Website (Portfolio) [https://dakkuadev.github.io/personal-website/index.html]
+*   🌍  I'm based in Spain, Asturias
 *   🤝  I'm open to collaborating on Interactive Projects. XR. Video Games. Workshops and events.
 *   ✉️  You can contact me at [daniel.guerra.gallardo99@gmail.com](mailto:daniel.guerra.gallardo99@gmail.com)
 
