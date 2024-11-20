@@ -1,4 +1,4 @@
-Hi ! I am Daniel Guerra
+Hi! I am Daniel Guerra
 =====================================================================================================================================
 
 Videogame and Virtual Environments Developer. 🕹️
