@@ -12,7 +12,7 @@ Videogame and Virtual Environments Developer. 🕹️
 
 📣 I have been a guest speaker at Universidad de Oviedo, FIMP, Festival Creando, and UBU Party.
 
-🎯 My goals are to create, innovate, and influence through the use of immersive technologies and video videogames. You can see some of my personal and commercial projects on my website and portfolio.
+🎯 My goals are to create, innovate, and influence through the use of immersive technologies and videogames. You can see some of my personal and commercial projects on my website and portfolio.
 
 *   🌐  [Personal Website (Portfolio)](https://dakkuadev.github.io/personal-website/index.html)
 *   🌍  I'm based in Spain, Asturias
